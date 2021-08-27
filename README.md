@@ -1,2 +1,2 @@
 # l337c0d3
-https://leetcode.com/problemset/all/
+leetcode solutions https://leetcode.com/problemset/all/
